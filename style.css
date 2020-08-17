@@ -3,3 +3,10 @@
     float: right;
 }
 
+.jumbotron {
+    background-color: darkviolet;
+}
+
+.display-jumbotron {
+    color: white;
+}
